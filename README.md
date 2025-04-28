@@ -4,7 +4,7 @@ Your company is expanding in to new industries to diversify its portfolio. Speci
 
 The dataset used for analyses has all the aviation accidents compiled from 1948 to 2022
 
-The Analysis Takes the following format
+The Analysis Takes the following format:
 
 Exploratory data analysis was done in Jupyter Notebook.
 Data visualization for further analysis was done in Tableau.
