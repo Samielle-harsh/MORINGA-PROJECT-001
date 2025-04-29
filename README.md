@@ -20,3 +20,10 @@ This analysis will be considered a success when we are able to effectively deter
 ## Data Analysis
 
 This analysis will be considered a success when we are able to effectively determine the aircraft with the lowest risk for the Company to purchase and start this new business.
+
+
+
+![image](https://github.com/user-attachments/assets/78e493e0-4da6-4b90-906e-da6a6269eb11)
+
+
+
